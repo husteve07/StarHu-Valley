@@ -1,3 +1,3 @@
 # StarHu-Valley
-(THIS REPO ONLY CONTAINS THE CODE(C# FILES) OF THIS GAME)
+(THIS REPO ONLY CONTAINS ONLY THE SOURCE CODE(C# FILES) OF THIS GAME)
 An offline Single-Player Farming RPG with rendering written in C# with The Unity game engine. This is my First big project, this whole code base contains about 20k lines of code, and took me well over 300 hours to write. It is also my first attempt to integrate the SOLID programming principle in coding, many design patterns where utilized such as the conventional gang of four memento, command, singletone as well as the non-gang of four(maybe C#/Unity specific) patterns such as the pub-sub patter, object pooling etc. The A* algorithm is also implemented for NPC path finding. Much more
